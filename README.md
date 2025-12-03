@@ -1,10 +1,10 @@
 # BeoNexus AI Architecture
 
-Multi-Agent System for Livestock Management - Interactive Architecture Visualization
+Multi-Agent System for Animal Health Management - Interactive Architecture Visualization
 
 ## Overview
 
-BeoNexus is an AI-powered multi-agent system designed to provide evidence-based recommendations for livestock management, with a focus on sustainable farming practices and antibiotic reduction.
+BeoNexus is an AI-powered multi-agent system designed to provide evidence-based recommendations for animal health management, with a focus on sustainable farming practices and antibiotic reduction.
 
 ## Features
 

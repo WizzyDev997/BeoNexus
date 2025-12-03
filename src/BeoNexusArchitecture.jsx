@@ -93,7 +93,7 @@ const BeoNexusArchitecture = () => {
           fontSize: '1rem',
           fontWeight: '400'
         }}>
-          Multi-Agent System for Livestock Management
+          Multi-Agent System for Animal Health Management
         </p>
       </div>
 

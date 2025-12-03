@@ -628,7 +628,29 @@ const BeoNexusArchitecture = () => {
         color: '#4a7a6a',
         fontSize: '0.85rem'
       }}>
-Powered by www.next-lab.tech      </div>
+        Powered by{' '}
+        <a
+          href="https://www.next-lab.tech"
+          target="_blank"
+          rel="noopener noreferrer"
+          style={{
+            color: '#7dcea0',
+            textDecoration: 'none',
+            borderBottom: '1px solid #7dcea040',
+            transition: 'all 0.2s ease'
+          }}
+          onMouseEnter={(e) => {
+            e.target.style.color = '#a8e6cf';
+            e.target.style.borderBottomColor = '#a8e6cf';
+          }}
+          onMouseLeave={(e) => {
+            e.target.style.color = '#7dcea0';
+            e.target.style.borderBottomColor = '#7dcea040';
+          }}
+        >
+          www.next-lab.tech
+        </a>
+      </div>
     </div>
   );
 };
